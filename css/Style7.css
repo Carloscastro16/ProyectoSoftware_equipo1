@@ -1,0 +1,41 @@
+/* font-family: 'Frank Ruhl Libre', serif; 
+font-family: 'Poppins', sans-serif; 
+*/
+.Maquetado-parte-7{
+    height: 291px;
+    background: #DED5C4;
+
+}
+#parte-1{
+    margin-top: 73px;
+    font-family: 'Frank Ruhl Libre', serif;
+}
+.p1{
+    float: left;
+}
+.p2{
+    float: left;
+    margin-left: 40px;
+}
+img{
+    float: right;
+}
+#parte-2{
+    height: 82px;
+    margin-top: 73px;
+    font-family: 'Poppins', sans-serif;
+}
+.intro{
+    background: #FFFFFF;
+    height: 82px;
+    width: 154px;
+    padding-top: 23px;
+    font-size: 24px;
+    text-align: center;
+    float: left;
+}
+.reserved{
+    font-family: 'Poppins', sans-serif;
+    float: right;
+    padding-top: 31px;
+}
