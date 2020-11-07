@@ -9,12 +9,12 @@ position: absolute;
 width: 113px;
 height: 57px;
 left: 910px;
-top: 3438px;
+top: 0px;
 }
 .Our-Team h1{
 height: 31px;
-top: calc(50% - 31px/2 - 13px);
-font-family: "Frank Ruhl Libre", serif;
+top: 0;
+font-family: "Frank Ruhl Libre", sans-serif;
 font-style: normal;
 font-weight: normal;
 font-size: 24px;
@@ -36,7 +36,7 @@ position: absolute;
 width: 1130px;
 height: 389px;
 left: 100px;
-top: 3581px;
+top: 0px;
 
 }
 .persona-1{
@@ -66,7 +66,7 @@ letter-spacing: 3px;
 right: 65px;
 }
 h3.persona-1{
-font-family: Frank Ruhl Libre;
+font-family: "Frank Ruhl Libre", sans-serif;
 font-style: normal;
 font-weight: normal;
 font-size: 16px;
@@ -106,7 +106,7 @@ letter-spacing: 3px;
 left: 175px;
 }
 h3.persona-2{
-font-family: Frank Ruhl Libre;
+font-family: "Frank Ruhl Libre", sans-serif;
 font-style: normal;
 font-weight: normal;
 font-size: 16px;
@@ -147,7 +147,7 @@ letter-spacing: 3px;
 left: 255px;
 }
 h3.persona-3{
-font-family: Frank Ruhl Libre;
+font-family: "Frank Ruhl Libre", sans-serif;
 font-style: normal;
 font-weight: normal;
 font-size: 16px;
@@ -188,7 +188,7 @@ letter-spacing: 3px;
 left: 340px;
 }
 h3.persona-4{
-font-family: Frank Ruhl Libre;
+font-family: "Frank Ruhl Libre", sans-serif;
 font-style: normal;
 font-weight: normal;
 font-size: 16px;
@@ -231,6 +231,6 @@ font-size: 16px;
 line-height: 24px;
 letter-spacing: 0.8px;
 left: 750px;
-top: 670px;
+top: 898px;
 color: #FFFFFF;
 }
