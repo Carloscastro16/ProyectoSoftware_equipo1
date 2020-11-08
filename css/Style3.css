@@ -3,8 +3,120 @@ body{
     font-family: 'Poppins', sans-serif; 
     width: 100%;   
 }
+header
+{
+    width: 100%;
+    height: 713px;
+}
+.nav-link
+{
+    font-family: 'Frank Ruhl Libre',serif;
+    padding-top: 35px;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: white;
+}
+.top
+{
+    height: 82px;
+    left: -2px;
+    top: 2px;
+}
+.Logo
+{
+    max-height: 82px;
+}
+.bgheader
+{
+    background: url(../SP/maquetado1images/bg-header.png);
+    max-width: 50%;
+    width: 663px;
+    height: 713px;
+    background-size: cover;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.Gamburger
+{
+    top: 0;
+    right: 0;
+    position: absolute;
+}
+.centered
+{
+    width: 1302px;
+    height: 615px;
+    display: flex;
+    align-items: center;
+}
+.header-title
+{
+    position: relative;
+    text-align: center;
+    top: 195px;
+}
+.header-title h1
+{
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 2.4px;
+    font-family: Poppins;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 72px;
+}
+.header-title h6
+{   
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0.9px;
+    text-align: center;    
+}
+.reza hr
+{
+    position: absolute;
+    right: 641.5px;
+    width: 43px;
+    height: 3px;
+    top: 27px;
+}
+.bottom
+{
+    margin-top: -170px;
+    padding-top: 611px;
+}
+.arrowleft
+{
+    text-align: right;
+}
+.btn
+{
+    position: absolute;
+    top: -20px;
+    width: 162px;
+    height: 63px;
+    left: 80px;
+}
+.rightbutton
+{
+    left: 240px;
+    top: -28px;
+}
 .maquetado-3{
     background: #000000;
+    width: 100%;
+    height: 1260px;
+    top: 0;
+    position: relative;
+    padding-top: 0px;
+    padding-bottom: 115.5px;
 }
 #Top{
     height: 48.61px;
@@ -71,11 +183,6 @@ body{
 .flecha{
     margin: 0%;
 }
-body {
-    font-family: "Poppins", sans-serif;
-    font-size: 30px;
-  }
-
 .Team {
     background: #FFFFFF;
     width: 100%;
@@ -85,7 +192,6 @@ body {
     padding-top: 61px;
     padding-bottom: 97px;
 }
-
   .Our-Team{
   position: absolute;
   width: 113px;
@@ -334,7 +440,7 @@ body {
   letter-spacing: 1.2px;
   color: #FFFFFF;
   }
-  hr.conta{
+.conta hr{
   position: absolute;
   left: 556px;
   top: 71px;
@@ -478,3 +584,4 @@ body {
     float: right;
     padding-top: 31px;
 }
+
