@@ -3,10 +3,16 @@ body{
     font-family: 'Poppins', sans-serif; 
     width: 100%;   
 }
-header
+
+.header
 {
     width: 100%;
     height: 713px;
+    background: #000000;
+    top: 0;
+    position: relative;
+    padding-top: 0px;
+    padding-bottom: 115.5px;
 }
 .nav-link
 {
@@ -32,7 +38,7 @@ header
 }
 .bgheader
 {
-    background: url(../SP/maquetado1images/bg-header.png);
+    background: url(../maquetado1images/bg-header.png);
     max-width: 50%;
     width: 663px;
     height: 713px;
@@ -49,7 +55,7 @@ header
 }
 .centered
 {
-    width: 1302px;
+    width: 100%;
     height: 615px;
     display: flex;
     align-items: center;
@@ -64,7 +70,7 @@ header
 {
     font-family: 'Poppins', sans-serif;
     letter-spacing: 2.4px;
-    font-family: Poppins;
+    font-family: 'Poppins';
     font-size: 48px;
     font-style: normal;
     font-weight: 500;
@@ -108,6 +114,56 @@ header
 {
     left: 240px;
     top: -28px;
+}
+.feature
+{
+    background: url(../maquetado2bg.png);
+    height: 720px;
+    width: 100%;
+    top: 0;
+    padding-top: 0px;
+    padding-bottom: 30px;
+}
+.feature-header
+{
+    margin-top: 130px;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 31px;
+    letter-spacing: 1.2px;
+}
+.breza
+{
+    margin-top: 40px;
+    height: 6px;
+}
+.feature-text
+{
+    font-family: "Poppins";
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 36px;
+    letter-spacing: 1.5px;
+    margin-top: 40px;
+}
+.boton
+{
+    margin-top: 75px;
+    font-family: "Poppins";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.8px;
+    border-radius: 0px;
+    padding: 20px;
+    padding-left: 43.5px;
+    padding-right: 43.5px;
+}
+.boton{
+    left: 500px;
 }
 .maquetado-3{
     background: #000000;
