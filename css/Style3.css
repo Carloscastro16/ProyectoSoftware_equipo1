@@ -110,7 +110,7 @@ body{
 .rightbutton
 {
     position: absolute;
-    left: 220px;
+    left: 290px;
     top: -28px;
     width: 162px;
     height: 63px;
@@ -120,7 +120,7 @@ body{
     top: -20px;
     width: 162px;
     height: 63px;
-    left: 60px; 
+    left: 130px; 
 }
 .feature
 {
@@ -252,6 +252,7 @@ body{
     position: relative;
     padding-top: 61px;
     padding-bottom: 97px;
+    padding-left: 100px;
 }
   .Our-Team{
   position: absolute;
